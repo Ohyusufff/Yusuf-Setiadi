@@ -1,0 +1,16 @@
+input ['text'] {
+    size    : 10px;
+}
+
+.tab0{
+    border  : 2px solid black;
+}
+
+.tab1{
+    
+    border  : 2px solid black;
+}
+
+.tab2{
+    border  : 2px solid black;
+}
